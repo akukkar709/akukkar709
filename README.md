@@ -57,9 +57,8 @@ I love learning new technologies, improving performance, and building products t
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Instagram: https://instagram.com/yourprofile  
-- Portfolio: https://yourwebsite.com  
+- LinkedIn: https://www.linkedin.com/in/aarishkukkar/
+- Portfolio: https://aarishkukkar.in/
 
 ---
 
